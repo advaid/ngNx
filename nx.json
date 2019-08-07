@@ -7,5 +7,24 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "sample-fe": {
+      "tags": []
+    },
+    "sample-fe-e2e": {
+      "tags": []
+    },
+    "sample-api": {
+      "tags": []
+    },
+    "sample-lib": {
+      "tags": []
+    },
+    "application-two-fe": {
+      "tags": []
+    },
+    "application-two-fe-e2e": {
+      "tags": []
+    }
+  }
 }
